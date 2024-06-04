@@ -55,7 +55,7 @@
             "type": "framework",
             "optional": true,
             "owner": "platformio",
-            "version": "~0.3.9"
+            "version": "~0.3.11"
         },
         "framework-kendryte-standalone-sdk": {
             "type": "framework",
